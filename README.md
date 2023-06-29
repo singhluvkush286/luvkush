@@ -6,7 +6,7 @@ Blockchain Enthusiast | Java Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [singhlavkush286@gmail.com](mailto:singhlavkush286@gmail.com)
-* 🧠  I'm learning Android Development
+* 🧠  Backend Developer .
 
 ### Skills
 
